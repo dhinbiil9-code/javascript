@@ -1,0 +1,9 @@
+
+let sales = new Map()
+sales.set("Jenuary", 150);
+sales.set("Fevryart", 120);
+sales.set("March", 180);
+sales.set("April", 100);
+
+// sales.clear();
+console.log(sales);
